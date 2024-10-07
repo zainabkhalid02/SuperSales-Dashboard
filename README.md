@@ -4,6 +4,8 @@
 
 <img width="706" alt="Super Sales Dashboard" src="https://github.com/user-attachments/assets/6a722aca-60b8-4589-9390-e69a4b8d7f2f">
 
+
+
 ## Dashboard Overview
 
 This Super Store Sales Dashboard provides a detailed analysis of store performance, highlighting key metrics such as sales, profit, orders, and delivery days. It offers insights into regional sales, payment modes, shipping methods, and product categories, empowering data-driven decision-making for improved business strategies.
@@ -56,6 +58,21 @@ A single page report was created on Power BI Desktop & it was then published to 
 - The Regional Sales Analysis reveals that the West region drives the most sales, signaling potential for targeted marketing campaigns in this area.
 - The Monthly Sales and Profit Trends indicate that peak sales months coincide with higher profits, possibly due to seasonal promotions or sales events.
 - Shipping Mode Analysis suggests that most customers choose Standard Class, highlighting the need to maintain cost-effective and reliable shipping options.
+
+# Forecast Component
+
+1. Sales Forecast Analysis
+- Sales Forecast (15 days): The top chart provides a detailed sales forecast, displaying historical sales data from January 2019 to January 2021. The dense peaks indicate fluctuations in sales, with more pronounced spikes occurring at specific intervals.
+The forecast extends into the future with a prediction area shaded in green, indicating the expected range of sales, providing a visual cue on upcoming trends.
+
+- Detailed Forecast (Zoomed View): The lower chart zooms into the sales forecast for the next 15 days, highlighting specific data points like 9.4K, 9.7K, and 10.6K sales on peak days. The trend shows a slight decline towards the end of the forecast, dropping to 3.0K sales.
+This closer look helps in understanding short-term sales dynamics, aiding in immediate planning and inventory management.
+
+2. Sales by States
+Sales Distribution by State:
+A bar chart on the right side displays the state-wise sales performance, with California leading significantly at 0.34M, followed by New York (0.19M) and Texas (0.12M).
+Other notable states include Washington (0.09M), Pennsylvania (0.08M), and Ohio (0.07M). Lower sales are seen in Illinois, Florida, Michigan, and North Carolina.
+This data helps businesses identify high-performing regions and those with potential for growth, allowing for strategic allocation of marketing and sales resources.
 
 # Conclusion
 
