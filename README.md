@@ -2,7 +2,7 @@
 
 ### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNGRkMDAwMTAtZTkwNS00OTJkLTg4MzAtMDM5YmQxNjFiY2U1IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9
 
-
+<img width="706" alt="Super Sales Dashboard" src="https://github.com/user-attachments/assets/6a722aca-60b8-4589-9390-e69a4b8d7f2f">
 
 ## Dashboard Overview
 
