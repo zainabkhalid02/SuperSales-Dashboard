@@ -74,6 +74,8 @@ A bar chart on the right side displays the state-wise sales performance, with Ca
 Other notable states include Washington (0.09M), Pennsylvania (0.08M), and Ohio (0.07M). Lower sales are seen in Illinois, Florida, Michigan, and North Carolina.
 This data helps businesses identify high-performing regions and those with potential for growth, allowing for strategic allocation of marketing and sales resources.
 
+<img width="507" alt="Forecast panel" src="https://github.com/user-attachments/assets/2f0603da-4f50-4fa3-b762-6c77892f7e32">
+
 # Conclusion
 
 The Super Store Sales Dashboard effectively consolidates sales data into a visual format, making it easier for management to analyze key performance indicators, understand customer behavior, and optimize business strategies for higher sales and profitability.
