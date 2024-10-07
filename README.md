@@ -4,7 +4,7 @@
 
 <img width="706" alt="Super Sales Dashboard" src="https://github.com/user-attachments/assets/6a722aca-60b8-4589-9390-e69a4b8d7f2f">
 
-
+<img width="708" alt="Super Sales Dashboard Forecast" src="https://github.com/user-attachments/assets/9ba2a5c3-64aa-4620-a7d0-231a347ae3d1">
 
 ## Dashboard Overview
 
